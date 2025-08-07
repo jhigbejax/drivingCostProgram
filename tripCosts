@@ -1,4 +1,7 @@
-# tripCosts.py (Original – intentionally incorrect)
+# James Higbe
+# Optional Assignment 1
+# tripCosts
+
 def main()
     flort milesPerGallon
     float dollarsPerGallon
