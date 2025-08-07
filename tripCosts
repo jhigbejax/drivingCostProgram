@@ -1,5 +1,5 @@
 # James Higbe
-# Optional Assignment 1
+# Optional Assignment 1.0
 # tripCosts is a program that calculates driving costs trips of three distances.
 
 def main()
