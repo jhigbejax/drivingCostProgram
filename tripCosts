@@ -1,6 +1,6 @@
 # James Higbe
 # Optional Assignment 1
-# tripCosts
+# tripCosts is a program that calculates driving costs trips of three distances.
 
 def main()
     flort milesPerGallon
