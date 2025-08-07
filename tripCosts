@@ -1,7 +1,10 @@
-# tripCosts (fix main function)
+# tripCosts (add drivingCostFunction)
+# drivingCostFunction addition
+Function DrivingCost(float drivenMiles, float milesPerGallon, float dollarsPerGallon) returns float costMiles
+   costMiles = drivenMiles * (1.0 / milesPerGallon) * dollarsPerGallon
 
 # fix flort to float
-def main()
+Function main() returns nothing
     float milesPerGallon
     float dollarsPerGallon
 
