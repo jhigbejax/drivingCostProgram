@@ -1,4 +1,5 @@
-# tripCosts (add drivingCostFunction)
+
+# tripCosts (fixed main() added drivingCostFunction and added comments)
 # drivingCostFunction addition
 Function DrivingCost(float drivenMiles, float milesPerGallon, float dollarsPerGallon) returns float costMiles
    costMiles = drivenMiles * (1.0 / milesPerGallon) * dollarsPerGallon
